@@ -1,3 +1,3 @@
-*Junior
-*Computer Engineer
-*Software Manager
+* Junior
+* Computer Engineer
+* Software Manager
