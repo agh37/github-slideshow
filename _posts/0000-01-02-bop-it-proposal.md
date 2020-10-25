@@ -1,4 +1,3 @@
-# Bop It Proposal
 * 2 slide switch for on/off
 * 1 speaker for ouputing commands
 * 3 distinct tactile/auditory inputs
