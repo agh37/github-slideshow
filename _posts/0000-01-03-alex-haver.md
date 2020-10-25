@@ -1,7 +1,3 @@
----
-layout: slide
-Title: "Alex Haver"
----
 * Junior
 * Computer Engineer
 * Hardware Manager
